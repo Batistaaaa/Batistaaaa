@@ -1,11 +1,11 @@
 - # sobre mim 
-- 👋 Oi, eu sou a aluna Anna Paula 
+- :nazar_amulet: Oi, eu sou a aluna Anna Paula 
 -  
+- :handbag: eu estou interresada em fazer direito  
+-
+- :hibiscus: eu gosto de plantas 
 - 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- :mailbox: meu email anna.batista.santos@escola.pr.gov.br
 
 <!---
 Batistaaaa/Batistaaaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
